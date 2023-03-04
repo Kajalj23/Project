@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Menu page CSS */
+
+/* Header section */
+
+.part1, .part2{
+    width: 100%; 
+}
+.logo{
+    height: 30px;
+}
+.menuheaderlist li,a{
+    color: white;
+    padding-left: 12px;
+    text-decoration: none;
+}
+.menuheaderlist li:hover{
+    text-decoration: underline;
+}
+.btn{
+    font-size: 13px;
+}
+.menuheaderlist2 li{
+    font-size: 13px;
+    padding-left: 15px;
+}
+.htext{
+    text-decoration: none;
+    color: blue;
+}
+a.htext:hover{
+    text-decoration: underline black;   
+}
+
+ /* Header section completed  */
+
+ /* content section */
+ .btn2{
+    font-size: 16px;
+    padding: 5px 32px;
+    color: #e61a39;
+    font-weight: bold;
+ }
+
+ /* content section  completed*/
+
+ /* Footer */
+ .listheader{
+    color: #546273;
+    font-size: 20px;
+ }
+.flist a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.flist li{   
+    padding-bottom: 15px;
+}
+.simg li{
+    padding-right: 20px;
+}
+ 
+ /* Footer completed */
+
+
+
+ /* Contact Page CSS */
+
+.outlet{
+    border: 1px solid black ;
+}
